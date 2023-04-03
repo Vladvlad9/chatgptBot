@@ -1,4 +1,4 @@
 source ./venv/bin/activate
-/usr/bin/pip install -r /opt/git/chatgpt/requirements.txt
+/usr/bin/pip install -r /opt/git/chatgptBot/requirements.txt
 
-/usr/bin/python /opt/git/chatgpt/app.py
+/usr/bin/python /opt/git/chatgptBot/app.py
